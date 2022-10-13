@@ -18,6 +18,6 @@ IT кружок 2720 - это 5 лицеистов, разочарованные
 
 > Все проекты незащинены. Незаконное распространение карается рукопожатием и крепким одобрением
 
-  - [ICT Formulas mobile](https://github.com/murphyqwek/mobile_ict_formulasv) - приложение для высчитывание формул по информатике
+  - [ICT Formulas mobile](https://github.com/murphyqwek/mobile_ict_formulas) - приложение для высчитывание формул по информатике
   - [Автоконспекты](https://github.com/It-kruzhok-2720/conspects) (**_Незакончено_**) - бот, который авоматически сортирует конспеты на гугл диск
   - [Дополнительный код](https://github.com/murphyqwek/sign_extension) - модель работы дополнительного кода
